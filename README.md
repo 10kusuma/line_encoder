@@ -1,1 +1,2 @@
-# line_encoder
+line encoding techniques
+DC assignment_compressed is final assignment mam
